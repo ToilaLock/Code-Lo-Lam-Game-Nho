@@ -5,7 +5,7 @@ Mục tiêu của series này là biến những thuật toán, logic khô khan 
 
 ---
 
-## 📂 Danh Sách Các Tập (Directory)
+## 📂 Danh Sách Các Tập 
 
 | **Tập 1** | Thuật toán Random Walk (Gã say rượu) | C++ (Console) |
 
